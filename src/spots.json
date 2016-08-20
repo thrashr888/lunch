@@ -1,0 +1,163 @@
+{"spots": [
+
+    {"name": "Mama Chow's",
+    "rating": 2,
+    "distance": 0,
+    "time": 0.5},
+
+    {"name": "Cafe Yumm!",
+    "rating": 1,
+    "distance": 0,
+    "time": 0.5},
+
+    {"name": "Killer Burger",
+    "rating": 2,
+    "distance": 0,
+    "time": 1},
+
+    {"name": "Chipotle",
+    "rating": 1,
+    "distance": 1,
+    "time": 0.5},
+
+    {"name": "Bunk",
+    "rating": 1.5,
+    "distance": 2,
+    "time": 0.5},
+
+    {"name": "Deschutes",
+    "rating": 0.3,
+    "distance": 3,
+    "time": 1.5},
+
+    {"name": "Alder Cart Pod",
+    "rating": 1,
+    "distance": 1,
+    "time": 0.5},
+
+    {"name": "Garden Bar",
+    "rating": 2,
+    "distance": 0,
+    "time": 0.5},
+
+    {"name": "High Noon",
+    "rating": 1,
+    "distance": 1,
+    "time": 1},
+
+    {"name": "Potbelly Sandwiches",
+    "rating": 1,
+    "distance": 1,
+    "time": 0.5},
+
+    {"name": "Addy's",
+    "rating": 1,
+    "distance": 2,
+    "time": 0.5},
+
+    {"name": "Picnic House",
+    "rating": 1,
+    "distance": 1,
+    "time": 0.5},
+
+    {"name": "Brunch Box",
+    "rating": 1,
+    "distance": 1,
+    "time": 0.5},
+
+    {"name": "Original's",
+    "rating": 1.2,
+    "distance": 1,
+    "time": 1},
+
+    {"name": "Mother's",
+    "rating": 1,
+    "distance": 1,
+    "time": 1},
+
+    {"name": "Huber's",
+    "rating": 1,
+    "distance": 0,
+    "time": 1.5},
+
+    {"name": "Mi Mero Mole",
+    "rating": 1,
+    "distance": 2,
+    "time": 0.5},
+
+    {"name": "Sizzle Pie",
+    "rating": 1.2,
+    "distance": 2,
+    "time": 1},
+
+    {"name": "Pieology",
+    "rating": 1.5,
+    "distance": 1,
+    "time": 1},
+
+    {"name": "Yard House",
+    "rating": 0.8,
+    "distance": 2,
+    "time": 1.5},
+
+    {"name": "MOD Pizza",
+    "rating": 1,
+    "distance": 1,
+    "time": 1},
+
+    {"name": "Kelly's Olympian",
+    "rating": 1.2,
+    "distance": 0,
+    "time": 1},
+
+    {"name": "Old Town Pizza & Brewing",
+    "rating": 1,
+    "distance": 2,
+    "time": 1.5},
+
+    {"name": "Boke Bowl",
+    "rating": 1,
+    "distance": 1,
+    "time": 0.5},
+
+    {"name": "Boxer Ramen",
+    "rating": 1,
+    "distance": 1,
+    "time": 1},
+
+    {"name": "Fat Head's Brewery",
+    "rating": 0.2,
+    "distance": 3,
+    "time": 1.5},
+
+    {"name": "Le Chon",
+    "rating": 1,
+    "distance": 1,
+    "time": 1},
+
+    {"name": "Luc Lac",
+    "rating": 1,
+    "distance": 1,
+    "time": 0.5},
+
+    {"name": "Hair of the Dog Brewing",
+    "rating": 0.1,
+    "distance": 4,
+    "time": 2},
+
+    {"name": "Korean Twist",
+    "rating": 1,
+    "distance": 1,
+    "time": 0.5},
+
+    {"name": "Grilled Cheeze Cart",
+    "rating": 1,
+    "distance": 1,
+    "time": 0.5},
+
+    {"name": "Life of Pie",
+    "rating": 1,
+    "distance": 5,
+    "time": 2}
+
+]}
