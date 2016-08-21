@@ -3,6 +3,7 @@ import React, { Component } from 'react';
 import './App.css';
 
 import getSpot from './spots'
+import SpotDetail from './SpotDetail'
 
 
 class App extends Component {
@@ -22,9 +23,15 @@ class App extends Component {
   }
 
   getNewSpot() {
-    this.setState({
-      spot: getSpot(this.state.filters)
-    })
+    getSpot(this.state.filters).then(function (spot) {
+
+      this.setState({
+        spot: spot
+      })
+
+    }.bind(this)).catch(function (err) {
+      console.log(err);
+    });
   }
 
   componentWillMount() {
@@ -58,15 +65,13 @@ class App extends Component {
   }
 
   render() {
-    console.log('App.state', this.state);
+    // console.log('App.state', this.state);
 
     return (
       <div className="App">
 
         <div className="App-intro">
-          <h2>
-            {this.state.spot ? this.state.spot.name : null}
-          </h2>
+          <SpotDetail spot={this.state.spot} />
         </div>
 
         <div className="App-tool">
@@ -97,6 +102,7 @@ class App extends Component {
         <div className="App-action">
           <button className="App-button" onClick={this.handleClick}>LUNCH?</button>
         </div>
+
       </div>
     );
   }
