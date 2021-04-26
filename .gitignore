@@ -9,3 +9,8 @@ build
 # misc
 .DS_Store
 npm-debug.log
+
+# waypoint
+.waypoint/
+# Default Waypoint database file
+data.db
